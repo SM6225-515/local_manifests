@@ -24,6 +24,6 @@
   <project path="vendor/xiaomi/topaz" name="SM6225-515/vendor_xiaomi_topaz" remote="github" revision="derp-14" />
 
   <!-- Dependencies -->
-  <project path="hardware/xiaomi" name="SM6225-515/android_hardware_xiaomi" remote="github" revision="lineage-21" />
+  <!--project path="hardware/xiaomi" name="SM6225-515/android_hardware_xiaomi" remote="github" revision="lineage-21" -->
 
 </manifest>
