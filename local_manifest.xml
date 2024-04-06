@@ -19,7 +19,7 @@
 
   <!-- Trees -->
   <project path="device/xiaomi/topaz-kernel" name="SM6225-515/device_xiaomi_topaz-kernel" remote="github" revision="lineage-21" />
-  <project path="device/xiaomi/topaz" name="SM6225-515/device_xiaomi_topaz_" remote="github" revision="udc" />
+  <project path="device/xiaomi/topaz" name="SM6225-515/device_xiaomi_topazz" remote="github" revision="udc" />
   <project path="vendor/xiaomi/topaz" name="SM6225-515/vendor_xiaomi_topaz_" remote="github" revision="udc" />
 
   <!-- Dependencies -->
