@@ -18,9 +18,9 @@
   <project path="device/qcom/sepolicy_vndr/sm6225" name="Xiaomi-SD685-Devs/device_qcom_sepolicy_vndr" remote="github" revision="lineage-21.0-caf-sm6225" />
 
   <!-- Trees -->
-  <project path="device/xiaomi/topaz-kernel" name="SM6225-515/device_xiaomi_topaz-kernel" remote="github" revision="lineage-21" />
-  <project path="device/xiaomi/topaz" name="SM6225-515/Device_xiaomi_topaz-wip" remote="github" revision="lineage-21" />
-  <project path="vendor/xiaomi/topaz" name="SM6225-515/vendor_xiaomi_topaz" remote="github" revision="lineage-21" />
+  <project path="device/xiaomi/topaz-kernel" name="https://github.com/AliHasan7671/android_device_xiaomi_tapas-kernel" remote="github" revision="14" />
+  <project path="device/xiaomi/topaz" name="https://github.com/AliHasan7671/android_device_xiaomi_tapas" remote="github" revision="14" />
+  <project path="vendor/xiaomi/topaz" name="https://github.com/AliHasan7671/proprietary_vendor_xiaomi_tapas" remote="github" revision="14" />
 
   <!-- Dependencies -->
   <!--project path="hardware/xiaomi" name="SM6225-515/android_hardware_xiaomi" remote="github" revision="lineage-21"-->
