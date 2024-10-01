@@ -21,7 +21,7 @@
   <project path="device/xiaomi/topaz-kernel" name="Ctps123/device_xiaomi_topaz-kernel" remote="github" revision="14.0" />
   <project path="device/xiaomi/topaz" name="Ctps123/Android_xiaomi_topaz-" remote="github" revision="Statix" />
   <project path="vendor/xiaomi/topaz" name="Ctps123/Android_vendor_xiaomi_topaz" remote="github" revision="14.0" />
-  <project path="device/xiaomi/sepolicy" name="Ctps123/device_xiaomi_sepolicy" remote="github" revision="lineage-21" />
+  <project path="device/xiaomi/sepolicy" name="Ctps123/device_xiaomi_sepolicy" remote="github" revision="lineage-21.0" />
   
   <!-- Dependencies -->
   <!--project path="hardware/xiaomi" name="SM6225-515/android_hardware_xiaomi" remote="github" revision="lineage-21"-->
