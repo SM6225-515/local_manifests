@@ -16,7 +16,7 @@
   <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm6225/Android.mk" />
 
   <!-- Sepolicy -->
-  <project path="device/qcom/sepolicy_vndr/sm6225" name="Xiaomi-SD685-Devs/device_qcom_sepolicy_vndr" remote="github" revision="lineage-21.0-caf-sm6225" />
+  <project path="device/qcom/sepolicy_vndr/sm6225" name="Ctps123/device_qcom_sepolicy_vndr" remote="github" revision="lineage-21.0-caf-sm6225" />
 
   <!-- Trees -->
   <project path="device/xiaomi/topaz-kernel" name="Ctps123/device_xiaomi_topaz-kernel" remote="github" revision="14.0" />
