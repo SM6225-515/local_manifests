@@ -5,7 +5,8 @@
             revision="sixteen" />
 
   <!-- remove forked projects -->
-  <!--project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" groups="qcom" remote="tapas" >
+  <!--project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" groups="qcom" remote="tapas"-->
+    
     <!-- add guard for AOSP hardware/qcom dir -->
     <linkfile src="os_pickup_aosp.mk" dest="hardware/qcom/Android.mk" />
     <!-- add guards for CAF repositories -->
