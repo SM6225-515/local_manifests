@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="tapas"
-            fetch="ssh://git@github.com/rn124g-development"
+            fetch="https://github.com/rn124g-development"
             revision="sixteen" />
     <remote name="LineageOS" fetch="https://github.com/LineageOS" />
     <remote name="PixelOS" fetch="https://github.com/PixelOS-AOSP" />
@@ -50,10 +50,10 @@
 
   <!--project path="vendor/qcom/opensource/vibrator" name="LineageOS/android_vendor_qcom_opensource_vibrator" groups="qcom,lanai-vendor" remote="LineageOS" revision="refs/heads/lineage-22.2" -->
 
-  <project name="hardware_xiaomi" path="hardware/xiaomi" remote="PixelOS" />
+  <!--project name="hardware_xiaomi" path="hardware/xiaomi" remote="PixelOS" /-->
 
   <!-- Trees -->
-  <project path="device/xiaomi/tapas-kernel" name="skwel-stuffs/device_xiaomi_topaz-kernel" remote="github" revision="lineage-22.2" />
+  <project path="device/xiaomi/tapas-kernel" name="AliHasan7671/android_device_xiaomi_tapas-kernel" remote="github" revision="16" />
   <project path="device/xiaomi/tapas" name="AliHasan7671/android_device_xiaomi_tapas" remote="github" revision="16" />
   <project path="vendor/xiaomi/tapas" name="AliHasan7671/proprietary_vendor_xiaomi_tapas" remote="github" revision="16" />
   
