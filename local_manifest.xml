@@ -58,6 +58,6 @@
   <project path="vendor/xiaomi/tapas" name="AliHasan7671/proprietary_vendor_xiaomi_tapas" remote="github" revision="16" />
   
   <!-- Dependencies -->
-  <project path="hardware/xiaomi" name="SM6225-515/android_hardware_xiaomi" remote="github" revision="lineage-23.0">
+  <project path="hardware/xiaomi" name="SM6225-515/android_hardware_xiaomi" remote="github" revision="lineage-23.0" />
 
 </manifest>
