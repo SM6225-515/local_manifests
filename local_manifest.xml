@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="tapas"
-            fetch="https://github.com/SM6225-515"
+            fetch="https://github.com/rn124g-development"
             revision="sixteen" />
     <remote name="LineageOS" fetch="https://github.com/LineageOS" />
     <remote name="PixelOS" fetch="https://github.com/PixelOS-AOSP" />
