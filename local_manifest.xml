@@ -4,7 +4,7 @@
             fetch="https://github.com/rn124g-development"
             revision="sixteen" />
     <remote name="LineageOS" fetch="https://github.com/LineageOS" />
-    <remote name="PixelOS" fetch="https://github.com/PixelOS-AOSP" />
+    <remote name="sm6225" fetch="https://github.com/SM6225-515" />
         
   <!-- remove forked projects -->
   <!--project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" groups="qcom" remote="tapas"-->
@@ -54,7 +54,7 @@
 
   <!-- Trees -->
   <project path="device/xiaomi/tapas-kernel" name="AliHasan7671/android_device_xiaomi_tapas-kernel" remote="github" revision="16" />
-  <project path="device/xiaomi/tapas" name="scorpionsola/android_device_xiaomi_tapas" remote="github" revision="16" />
+  <project path="device/xiaomi/tapas" name="SM6225-515/Android_device_xiaomi_tapas" remote="github" revision="wip" />
   <project path="vendor/xiaomi/tapas" name="AliHasan7671/proprietary_vendor_xiaomi_tapas" remote="github" revision="16" />
   
   <!-- Dependencies -->
