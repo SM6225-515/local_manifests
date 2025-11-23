@@ -59,5 +59,5 @@
   
   <!-- Dependencies -->
   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-23.0" />
-
+  <project path="hardware/dolby" name="SM6225-515/android_hardware_dolby" remote="github" revision="16" />
 </manifest>
